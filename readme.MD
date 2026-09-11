@@ -84,7 +84,7 @@ The longest available slots are shown first.
 
 ## Demo Video
 
-[Watch the TimeSync Demo](YOUR_VIDEO_LINK)
+[Watch the TimeSync Demo](https://youtu.be/5-2d__8g-Kk)
 
 ---
 
